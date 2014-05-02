@@ -1,0 +1,35 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ColorSchemeSelector",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"jQuery",
+		"Laravel 4 Artisan",
+		"Laravel 4 Facades",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Color Scheme",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Phix Color Scheme",
+		"SCSS",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Numix",
+		"Theme - Piatto",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	]
+}

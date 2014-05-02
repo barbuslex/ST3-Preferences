@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"ColorSchemeSelector",
+		"Vintage"
+	],
+	"theme": "Spacegray Eighties.sublime-theme"
+}
