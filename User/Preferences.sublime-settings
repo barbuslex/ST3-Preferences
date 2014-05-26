@@ -1,11 +1,20 @@
 {
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-	"font_face": "Source Code Pro",
-	"font_size": 14,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/base16-ocean.dark (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"font_face": "Inconsolata",
+	"font_size": 16,
 	"ignored_packages":
 	[
-		"ColorSchemeSelector",
 		"Vintage"
 	],
-	"theme": "Spacegray Eighties.sublime-theme"
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": false
 }
